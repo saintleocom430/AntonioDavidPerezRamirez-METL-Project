@@ -20,7 +20,7 @@ Git 2.27 Installation - This will install Git 2.27 which is required for METL to
 
 Installation Instructions:
 
-1. RUN METL-Installation.bat
+1. RUN Setup.exe
 
 2. Complete the Installation Process and make sure you have installed:
 

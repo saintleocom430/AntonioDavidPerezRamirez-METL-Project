@@ -8,7 +8,7 @@ echo sbt.1.3.13
 
 echo Press any key to install Java 1.8.261
 pause
-start msedge.exe https://download.oracle.com/otn/java/jdk/8u261-b12/a4634525489241b9a9e1aa73d9e118e6/jdk-8u261-windows-x64.exe?AuthParam=1596784623_479c61a3a679d4216e422506130c7454
+start msedge.exe https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html#license-lightbox
 
 echo Press any key to install Git 2.27
 pause

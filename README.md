@@ -16,6 +16,8 @@ sbt 1.3.13 Installation - This will install Scala sbt 1.3.13 which is required f
 
 Git 2.27 Installation - This will install Git 2.27 which is required for METL to run properly.
 
+METL - Installation Manual.pdf - This is a professional guide for experts and beginners on how to install METL on your local machine. (Express and Step-by-Step Guides)
+
 ## Installation
 
 Installation Instructions:
